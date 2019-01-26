@@ -1,2 +1,0 @@
-# Discuz
-Discuz
